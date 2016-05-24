@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.sagad.app" version="1.5.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.psu.app" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
-    <name>Sagad SEO</name>
-    <description>SEO Expert Al Gomez, honest and results driven SEO Consultant 8yrs experience. Your website can be featured on the first page of Google.</description>
-    <author email="al@dlinkers.com">Sagad SEO Webmaster</author>
+    <name>PSU Mobile App</name>
+    <description>This is a sample mobile application for PSU.</description>
+    <author email="markjohnabrenica2133#gmail.com">Mark Abrenica</author>
 
-    <preference name="phonegap-version" value="3.3.0" />
+    <preference name="phonegap-version" value="3.6.3" />
     <feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="orientation" value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
@@ -47,6 +47,6 @@
     <gap:splash src="res/screen/ios/Default@2x.png" gap:platform="ios" width="680" height="960" />
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
-    <content src="http://sagadseo.com.au" />
+    <content src="http://sam.dlinkers.com/" />
     <access origin="*" />
 </widget>
